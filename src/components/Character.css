@@ -1,0 +1,22 @@
+
+h4{
+    color: sienna;
+}
+
+.box{
+    width: 48%;
+    min-height: 50px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-left: black 1px solid;
+    border-bottom: black 1px solid;
+    border-radius: 10px;
+}
+@media (max-width: 767px){
+    .box{
+        width: 100%;
+    }
+}

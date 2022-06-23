@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bd6aff1-50c3-48c7-98ea-10017e6996c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6bd6aff1-50c3-48c7-98ea-10017e6996c4" name="Changes" comment="init l1 hw2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +14,7 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/../.." value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson001-hw1" />
         <entry key="$PROJECT_DIR$/lesson001/hw1" value="000111" />
       </map>
     </option>
@@ -62,8 +61,30 @@
       <workItem from="1655990858323" duration="64000" />
       <workItem from="1655990949659" duration="1328000" />
       <workItem from="1655992353205" duration="506000" />
-      <workItem from="1655992967143" duration="835000" />
+      <workItem from="1655992967143" duration="1152000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1655993950965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655993950965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init l1 hw2">
+      <created>1655994085848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655994085848</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init l1 hw2">
+      <created>1655994096960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655994096960</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +100,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init" />
+    <MESSAGE value="init l1 hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init l1 hw2" />
   </component>
 </project>
