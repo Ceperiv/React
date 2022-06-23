@@ -1,12 +1,20 @@
 import React from 'react';
 
-function User({item}) {
+function User({item, userButton}) {
     return (
-        <div>
-            <h4>{item.id}</h4>
-            <h2>{item.name}</h2>
-        </div>
+        <ol>
+            <li className={'li-el'}>{item.id}</li>
+
+            <li>{item.name}</li>
+            <button onClick={() => {
+                userButton(item)
+                // document.querySelector('.user_details').after(document.querySelector('.box'))
+
+            }}>details
+            </button>
+        </ol>
     );
 }
+
 
 export {User};
