@@ -1,1 +1,542 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.9 595.3"><g fill="#61DAFB"><path d="M666.3 296.5c0-32.5-40.7-63.3-103.1-82.4 14.4-63.6 8-114.2-20.2-130.4-6.5-3.8-14.1-5.6-22.4-5.6v22.3c4.6 0 8.3.9 11.4 2.6 13.6 7.8 19.5 37.5 14.9 75.7-1.1 9.4-2.9 19.3-5.1 29.4-19.6-4.8-41-8.5-63.5-10.9-13.5-18.5-27.5-35.3-41.6-50 32.6-30.3 63.2-46.9 84-46.9V78c-27.5 0-63.5 19.6-99.9 53.6-36.4-33.8-72.4-53.2-99.9-53.2v22.3c20.7 0 51.4 16.5 84 46.6-14 14.7-28 31.4-41.3 49.9-22.6 2.4-44 6.1-63.6 11-2.3-10-4-19.7-5.2-29-4.7-38.2 1.1-67.9 14.6-75.8 3-1.8 6.9-2.6 11.5-2.6V78.5c-8.4 0-16 1.8-22.6 5.6-28.1 16.2-34.4 66.7-19.9 130.1-62.2 19.2-102.7 49.9-102.7 82.3 0 32.5 40.7 63.3 103.1 82.4-14.4 63.6-8 114.2 20.2 130.4 6.5 3.8 14.1 5.6 22.5 5.6 27.5 0 63.5-19.6 99.9-53.6 36.4 33.8 72.4 53.2 99.9 53.2 8.4 0 16-1.8 22.6-5.6 28.1-16.2 34.4-66.7 19.9-130.1 62-19.1 102.5-49.9 102.5-82.3zm-130.2-66.7c-3.7 12.9-8.3 26.2-13.5 39.5-4.1-8-8.4-16-13.1-24-4.6-8-9.5-15.8-14.4-23.4 14.2 2.1 27.9 4.7 41 7.9zm-45.8 106.5c-7.8 13.5-15.8 26.3-24.1 38.2-14.9 1.3-30 2-45.2 2-15.1 0-30.2-.7-45-1.9-8.3-11.9-16.4-24.6-24.2-38-7.6-13.1-14.5-26.4-20.8-39.8 6.2-13.4 13.2-26.8 20.7-39.9 7.8-13.5 15.8-26.3 24.1-38.2 14.9-1.3 30-2 45.2-2 15.1 0 30.2.7 45 1.9 8.3 11.9 16.4 24.6 24.2 38 7.6 13.1 14.5 26.4 20.8 39.8-6.3 13.4-13.2 26.8-20.7 39.9zm32.3-13c5.4 13.4 10 26.8 13.8 39.8-13.1 3.2-26.9 5.9-41.2 8 4.9-7.7 9.8-15.6 14.4-23.7 4.6-8 8.9-16.1 13-24.1zM421.2 430c-9.3-9.6-18.6-20.3-27.8-32 9 .4 18.2.7 27.5.7 9.4 0 18.7-.2 27.8-.7-9 11.7-18.3 22.4-27.5 32zm-74.4-58.9c-14.2-2.1-27.9-4.7-41-7.9 3.7-12.9 8.3-26.2 13.5-39.5 4.1 8 8.4 16 13.1 24 4.7 8 9.5 15.8 14.4 23.4zM420.7 163c9.3 9.6 18.6 20.3 27.8 32-9-.4-18.2-.7-27.5-.7-9.4 0-18.7.2-27.8.7 9-11.7 18.3-22.4 27.5-32zm-74 58.9c-4.9 7.7-9.8 15.6-14.4 23.7-4.6 8-8.9 16-13 24-5.4-13.4-10-26.8-13.8-39.8 13.1-3.1 26.9-5.8 41.2-7.9zm-90.5 125.2c-35.4-15.1-58.3-34.9-58.3-50.6 0-15.7 22.9-35.6 58.3-50.6 8.6-3.7 18-7 27.7-10.1 5.7 19.6 13.2 40 22.5 60.9-9.2 20.8-16.6 41.1-22.2 60.6-9.9-3.1-19.3-6.5-28-10.2zM310 490c-13.6-7.8-19.5-37.5-14.9-75.7 1.1-9.4 2.9-19.3 5.1-29.4 19.6 4.8 41 8.5 63.5 10.9 13.5 18.5 27.5 35.3 41.6 50-32.6 30.3-63.2 46.9-84 46.9-4.5-.1-8.3-1-11.3-2.7zm237.2-76.2c4.7 38.2-1.1 67.9-14.6 75.8-3 1.8-6.9 2.6-11.5 2.6-20.7 0-51.4-16.5-84-46.6 14-14.7 28-31.4 41.3-49.9 22.6-2.4 44-6.1 63.6-11 2.3 10.1 4.1 19.8 5.2 29.1zm38.5-66.7c-8.6 3.7-18 7-27.7 10.1-5.7-19.6-13.2-40-22.5-60.9 9.2-20.8 16.6-41.1 22.2-60.6 9.9 3.1 19.3 6.5 28.1 10.2 35.4 15.1 58.3 34.9 58.3 50.6-.1 15.7-23 35.6-58.4 50.6zM320.8 78.4z"/><circle cx="420.9" cy="296.5" r="45.7"/><path d="M520.5 78.1z"/></g></svg>
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:The Simpsons Logo.svg - Wikimedia Commons</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":true,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"19c06a7a-ff0b-45a4-a58d-c600a7848bf3","wgCSPNonce":false,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:The_Simpsons_Logo.svg","wgTitle":"The Simpsons Logo.svg","wgCurRevisionId":660518648,"wgRevisionId":660518648,"wgArticleId":16568939,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD textlogo","SVG text logos","With trademark","SVG logos of television programs of the United States","The Simpsons logos"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File:The_Simpsons_Logo.svg","wgRelevantArticleId":16568939,
+"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":400,"wgNoticeProject":"commons","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgULSCurrentAutonym":"English","wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"/wiki/Commons:Copyrights\" class=\"mw-redirect\" title=\"Commons:Copyrights\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":[],
+"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":false,"wbEntityId":"M16568939","wgEditSubmitButtonLabelPublish":true,"wbUserSpecifiedLanguages":["en"],"wbmiDefaultProperties":["P180"],"wbmiPropertyTitles":{"P180":"Items portrayed in this file"},"wbmiPropertyTypes":{"P180":"wikibase-item","P571":"time","P1163":"string"},"wbmiRepoApiUrl":"/w/api.php","wbmiHelpUrls":{"P180":"https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Depicts"},"wbmiExternalEntitySearchBaseUri":"https://www.wikidata.org/w/api.php","wbmiSupportedDataTypes":["wikibase-item","string","quantity","time","monolingualtext","external-id","globe-coordinate","url"],"wbCurrentRevision":660518648,"wbEntity":{"type":"mediainfo","id":"M16568939","labels":{"de":{"language":"de","value":"Logo der Zeichentricksitcom \"The Simpsons\""},"en":{"language":"en","value":"Adventurous Kids"}},"descriptions":[],"statements":{"P571":[{"mainsnak":{"snaktype":"value","property":"P571","hash":
+"e4a47d609be458e8f86b07b954122fec6052409c","datavalue":{"value":{"time":"+1989-12-17T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"}},"type":"statement","id":"M16568939$F2EE5A20-CEC6-47A0-9D4D-5D1FC8D1B01D","rank":"normal"}],"P1163":[{"mainsnak":{"snaktype":"value","property":"P1163","hash":"636199d1806c7cdbae57b4d4298f38fade12d052","datavalue":{"value":"image/svg+xml","type":"string"}},"type":"statement","id":"M16568939$9C579552-F036-43AE-AC25-1AF4F7162D60","rank":"normal"}]}},"wbmiMinCaptionLength":5,"wbmiMaxCaptionLength":250,"wbmiParsedMessageAnonEditWarning":
+"\u003Cp\u003EYou are not logged in and your \u003Ca href=\"https://en.wikipedia.org/wiki/IP_address\" class=\"extiw\" title=\"w:IP address\"\u003EIP address\u003C/a\u003E will be publicly visible if you make any edits. \u003Ca href=\"/wiki/Special:UserLogin\" title=\"Special:UserLogin\"\u003ELogging in\u003C/a\u003E or \u003Ca href=\"/wiki/Special:CreateAccount\" title=\"Special:CreateAccount\"\u003Ecreating an account\u003C/a\u003E will conceal your IP address and provide you with many other \u003Ca href=\"https://en.wikipedia.org/wiki/Wikipedia:Why_create_an_account%3F\" class=\"extiw\" title=\"w:Wikipedia:Why create an account?\"\u003Ebenefits\u003C/a\u003E. Please do not save test edits. If you want to experiment, please use the \u003Ca href=\"/wiki/Commons:Sandbox\" title=\"Commons:Sandbox\"\u003ESandbox\u003C/a\u003E.\n\u003C/p\u003E","wbmiProtectionMsg":null,"wgCentralAuthMobileDomain":false,"wgULSPosition":"personal","wgULSisCompactLinksEnabled":true};RLSTATE={
+"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.gadget.uploadWizardMobile":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","wikibase.common":"ready","jquery.wikibase.toolbar.styles":"ready","mediawiki.interface.helpers.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","wikibase.mediainfo.filepage.styles":"ready","wikibase.mediainfo.statements.styles":"ready","ext.wikimediaBadges":"ready","ext.uls.pt":"ready"};RLPAGEMODULES=["wikibase.entityPage.entityLoaded","wikibase.ui.entityViewInit","mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.wikimediaEvents.wikibase","ext.navigationTiming","wikibase.mediainfo.filePageDisplay","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cjquery.wikibase.toolbar.styles%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cskins.vector.styles.legacy%7Cwikibase.common%7Cwikibase.mediainfo.filepage.styles%7Cwikibase.mediainfo.statements.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.Long-Image-Names-in-Categories%2CuploadWizardMobile&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.16"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1200px-The_Simpsons_Logo.svg.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="532"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/800px-The_Simpsons_Logo.svg.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="355"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/640px-The_Simpsons_Logo.svg.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="284"/>
+<meta property="og:title" content="File:The Simpsons Logo.svg - Wikimedia Commons"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M16568939.json" type="application/json"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M16568939.php" type="application/vnd.php.serialized"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M16568939.n3" type="text/n3"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M16568939.ttl" type="text/turtle"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M16568939.nt" type="application/n-triples"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M16568939.rdf" type="application/rdf+xml"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M16568939.jsonld" type="application/ld+json"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//commons.m.wikimedia.org/wiki/File:The_Simpsons_Logo.svg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=File:The_Simpsons_Logo.svg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/commons.png"/>
+<link rel="shortcut icon" href="/static/favicon/commons.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Commons"/>
+<link rel="EditURI" type="application/rsd+xml" href="//commons.wikimedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:The_Simpsons_Logo.svg"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-File_The_Simpsons_Logo_svg rootpage-File_The_Simpsons_Logo_svg skin-vector action-view wb-entitypage wb-mediainfopage wb-mediainfopage-M16568939 skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">File:The Simpsons Logo.svg</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikimedia Commons, the free media repository</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage on Commons</a></li>
+<li><a href="#globalusage">File usage on other wikis</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Simpsons_Logo.svg"><img alt="File:The Simpsons Logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/300px-The_Simpsons_Logo.svg.png?20170727134057" decoding="async" width="300" height="133" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/450px-The_Simpsons_Logo.svg.png?20170727134057 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/600px-The_Simpsons_Logo.svg.png?20170727134057 2x" data-file-width="300" data-file-height="133" /></a><div class="mw-filepage-resolutioninfo">Size of this PNG preview of this SVG file: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/300px-The_Simpsons_Logo.svg.png" class="mw-thumbnail-link">300 × 133 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/320px-The_Simpsons_Logo.svg.png" class="mw-thumbnail-link">320 × 142 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/640px-The_Simpsons_Logo.svg.png" class="mw-thumbnail-link">640 × 284 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1024px-The_Simpsons_Logo.svg.png" class="mw-thumbnail-link">1,024 × 454 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1280px-The_Simpsons_Logo.svg.png" class="mw-thumbnail-link">1,280 × 567 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/2560px-The_Simpsons_Logo.svg.png" class="mw-thumbnail-link">2,560 × 1,135 pixels</a>.</span></div></div>
+<div class="fullMedia"><p><a href="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Simpsons_Logo.svg" class="internal" title="The Simpsons Logo.svg">Original file</a> &#8206;<span class="fileInfo">(SVG file, nominally 300 × 133 pixels, file size: 24 KB)</span>
+</p></div><div class='wbmi-tabs-container oo-ui-layout oo-ui-panelLayout'><div id='ooui-php-1' class='wbmi-tabs oo-ui-layout oo-ui-menuLayout oo-ui-menuLayout-static oo-ui-menuLayout-top oo-ui-menuLayout-showMenu oo-ui-indexLayout' data-ooui='{"_":"OO.ui.IndexLayout","classes":["wbmi-tabs"],"expanded":false,"menuPanel":{"tag":"ooui-php-2"},"contentPanel":{"tag":"ooui-php-3"},"autoFocus":false,"tabPanels":{"wikiTextPlusCaptions":{"tag":"ooui-php-4"},"statements":{"tag":"ooui-php-5"}},"tabSelectWidget":{"tag":"ooui-php-6"}}'><div aria-hidden='false' class='oo-ui-menuLayout-menu'><div id='ooui-php-2' class='oo-ui-layout oo-ui-panelLayout oo-ui-indexLayout-tabPanel' data-ooui='{"_":"OO.ui.PanelLayout","preserveContent":false,"expanded":false}'><div role='tablist' aria-multiselectable='false' tabindex='0' id='ooui-php-6' class='oo-ui-selectWidget oo-ui-selectWidget-unpressed oo-ui-widget oo-ui-widget-enabled oo-ui-tabSelectWidget oo-ui-tabSelectWidget-frameless' data-ooui='{"_":"OO.ui.TabSelectWidget","framed":false,"items":[{"tag":"ooui-php-7"},{"tag":"ooui-php-8"}]}'><div aria-selected='true' role='tab' id='ooui-php-7' class='oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement oo-ui-optionWidget oo-ui-tabOptionWidget oo-ui-optionWidget-selected' data-ooui='{"_":"OO.ui.TabOptionWidget","selected":true,"label":"File information","data":"wikiTextPlusCaptions"}'><span class='oo-ui-labelElement-label'>File information</span></div><div aria-selected='false' role='tab' id='ooui-php-8' class='oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement oo-ui-optionWidget oo-ui-tabOptionWidget' data-ooui='{"_":"OO.ui.TabOptionWidget","label":"Structured data","data":"statements"}'><span class='oo-ui-labelElement-label'>Structured data</span></div></div></div></div><div class='oo-ui-menuLayout-content'><div id='ooui-php-3' class='oo-ui-layout oo-ui-panelLayout oo-ui-stackLayout oo-ui-indexLayout-stackLayout' data-ooui='{"_":"OO.ui.StackLayout","preserveContent":false,"expanded":false,"items":[{"tag":"ooui-php-4"},{"tag":"ooui-php-5"}]}'><div role='tabpanel' id='ooui-php-4' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"wikiTextPlusCaptions","label":"File information","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><h2 class="wbmi-captions-header">Captions</h2><div class='wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><h3 class='wbmi-entityview-captions-header'>Captions</h3><div class='wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout'><label class='wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget'>English</label><div lang='en' dir='ltr' class='wbmi-caption-value'>Adventurous Kids</div></div><div style='display:none;' class='wbmi-entityview-caption wbmi-entityview-hideable oo-ui-layout oo-ui-horizontalLayout'><label class='wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget'>German</label><div lang='de' dir='ltr' class='wbmi-caption-value'>Logo der Zeichentricksitcom &quot;The Simpsons&quot;</div></div></div><div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:The_Simpsons_Logo.svg&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+
+<tbody><tr style="vertical-align: top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">The Simpsons Logo.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="English"><b>English&#58; </b></span> Logo for the Fox animated sitcom <i>The Simpsons</i></div></td>
+</tr>
+
+<tr style="vertical-align: top">
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
+<td lang="en">
+<time class="dtstart" datetime="1989-12-17" lang="en" dir="ltr" style="white-space:nowrap">17 December 1989</time></td>
+</tr>
+
+<tr style="vertical-align: top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
+<td>
+<a rel="nofollow" class="external text" href="http://www.seeklogo.com/the-simpsons-logo-139132.html">seeklogo.com</a></td>
+</tr>
+
+<tr style="vertical-align: top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
+<td>
+The Walt Disney Company</td>
+</tr>
+
+
+</tbody></table>
+</div>
+<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:The_Simpsons_Logo.svg&amp;action=edit&amp;section=2" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="licensetpl" style="display:none">
+<tbody><tr>
+<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</td></tr></tbody></table>
+<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="en">
+<tbody><tr>
+<td width="70px"><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" decoding="async" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" />
+</td>
+<td><div lang="en" dir="ltr" class="description en" style="display:inline;"><i>This logo image consists only of simple geometric shapes or text. It <b>does not meet the <a href="/wiki/Commons:Threshold_of_originality" title="Commons:Threshold of originality">threshold of originality</a></b> needed for copyright protection, and is therefore in the <b><a href="https://en.wikipedia.org/wiki/public_domain" class="extiw" title="w:public domain">public domain</a></b>. Although it is free of copyright restrictions, this image may still be subject to <a href="/wiki/Commons:Non-copyright_restrictions" title="Commons:Non-copyright restrictions">other restrictions</a>. See <a href="https://en.wikipedia.org/wiki/Wikipedia:Public_domain#Fonts_and_typefaces" class="extiw" title="w:Wikipedia:Public domain">WP:PD#Fonts and typefaces</a> or <a href="/wiki/Template_talk:PD-textlogo" title="Template talk:PD-textlogo">Template talk:PD-textlogo</a> for more information.</i></div>
+</td></tr></tbody></table>
+<table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa;" lang="en" dir="ltr" class="layouttemplate restrictiontemplate mw-content-ltr restriction-trademarked">
+<tbody><tr>
+<td style="border:none; width:64px;"><a href="/wiki/Commons:Non-copyright_restrictions" title="Trademarked"><img alt="Trademarked" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/64px-Trademark_Warning_Symbol.svg.png" decoding="async" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/96px-Trademark_Warning_Symbol.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/128px-Trademark_Warning_Symbol.svg.png 2x" data-file-width="64" data-file-height="64" /></a>
+</td>
+<td style="border:none;">This work includes material that may be <b>protected as a <a href="https://en.wikipedia.org/wiki/en:trademark" class="extiw" title="w:en:trademark">trademark</a></b> in some jurisdictions. If you want to use it, you have to ensure that you have the legal right to do so and that you do not infringe any trademark rights. See our <a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">general disclaimer</a>.<br /><small>This tag does not indicate the copyright status of the attached work. <span style="white-space:nowrap">A normal <a href="/wiki/Special:MyLanguage/Commons:Copyright_tags" title="Special:MyLanguage/Commons:Copyright tags">copyright tag</a> is still required.</span> <span style="white-space:nowrap">See <a href="/wiki/Special:MyLanguage/Commons:Licensing" title="Special:MyLanguage/Commons:Licensing">Commons:Licensing</a>.</span></small>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1444
+Cached time: 20220601083540
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.122 seconds
+Real time usage: 0.165 seconds
+Preprocessor visited node count: 600/1000000
+Post‐expand include size: 15517/2097152 bytes
+Template argument size: 2606/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 889552/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  137.322      1 -total
+ 47.60%   65.365      1 Template:Information
+ 45.12%   61.957      2 Template:Autotranslate
+ 32.69%   44.888      1 Template:Trademarked
+ 27.81%   38.193      1 Template:Trademarked/layout
+ 26.23%   36.026      1 Template:Non-copyright_restriction
+ 19.44%   26.700      1 Template:PD-textlogo
+  9.70%   13.323      1 Template:Copyright-tag-still-required
+  8.51%   11.687      1 Template:En
+  7.60%   10.440      1 Template:PD-textlogo/layout
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:16568939-0!wb=3 and timestamp 20220601083540 and revision id 660518648. Serialized with JSON.
+ -->
+</div></div><h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class="filehistory-selected" style="white-space: nowrap;"><a href="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Simpsons_Logo.svg">13:40, 27 July 2017</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Simpsons_Logo.svg"><img alt="Thumbnail for version as of 13:40, 27 July 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/120px-The_Simpsons_Logo.svg.png?20170727134057" decoding="async" width="120" height="53" data-file-width="300" data-file-height="133" /></a></td><td>300 × 133 <span style="white-space: nowrap;">(24 KB)</span></td><td><a href="/wiki/User:BOMBA" class="mw-userlink" title="User:BOMBA"><bdi>BOMBA</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:BOMBA" class="mw-usertoollinks-talk" title="User talk:BOMBA">talk</a> | <a href="/wiki/Special:Contributions/BOMBA" class="mw-usertoollinks-contribs" title="Special:Contributions/BOMBA">contribs</a>)</span></span></td><td dir="ltr">this is a mistake with letter holes</td></tr>
+<tr><td></td><td style="white-space: nowrap;"><a href="https://upload.wikimedia.org/wikipedia/commons/archive/b/bc/20170727134055%21The_Simpsons_Logo.svg">19:35, 26 July 2017</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/archive/b/bc/20170727134055%21The_Simpsons_Logo.svg"><img alt="Thumbnail for version as of 19:35, 26 July 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bc/20170727134055%21The_Simpsons_Logo.svg/120px-The_Simpsons_Logo.svg.png" decoding="async" width="120" height="53" data-file-width="553" data-file-height="245" /></a></td><td>553 × 245 <span style="white-space: nowrap;">(20 KB)</span></td><td><a href="/wiki/User:BOMBA" class="mw-userlink" title="User:BOMBA"><bdi>BOMBA</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:BOMBA" class="mw-usertoollinks-talk" title="User talk:BOMBA">talk</a> | <a href="/wiki/Special:Contributions/BOMBA" class="mw-usertoollinks-contribs" title="Special:Contributions/BOMBA">contribs</a>)</span></span></td><td dir="ltr">From EPS file</td></tr>
+<tr><td></td><td style="white-space: nowrap;"><a href="https://upload.wikimedia.org/wikipedia/commons/archive/b/bc/20170726193501%21The_Simpsons_Logo.svg">16:43, 17 October 2015</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/archive/b/bc/20170726193501%21The_Simpsons_Logo.svg"><img alt="Thumbnail for version as of 16:43, 17 October 2015" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bc/20170726193501%21The_Simpsons_Logo.svg/120px-The_Simpsons_Logo.svg.png" decoding="async" width="120" height="53" data-file-width="300" data-file-height="133" /></a></td><td>300 × 133 <span style="white-space: nowrap;">(24 KB)</span></td><td><a href="/w/index.php?title=User:BurritoBazooka&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:BurritoBazooka (page does not exist)"><bdi>BurritoBazooka</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:BurritoBazooka" class="mw-usertoollinks-talk" title="User talk:BurritoBazooka">talk</a> | <a href="/wiki/Special:Contributions/BurritoBazooka" class="mw-usertoollinks-contribs" title="Special:Contributions/BurritoBazooka">contribs</a>)</span></span></td><td dir="ltr">make letter holes transparent (instead of white). Less shapes.</td></tr>
+<tr><td></td><td style="white-space: nowrap;"><a href="https://upload.wikimedia.org/wikipedia/commons/archive/b/bc/20151017164338%21The_Simpsons_Logo.svg">10:47, 19 September 2011</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/archive/b/bc/20151017164338%21The_Simpsons_Logo.svg"><img alt="Thumbnail for version as of 10:47, 19 September 2011" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bc/20151017164338%21The_Simpsons_Logo.svg/120px-The_Simpsons_Logo.svg.png" decoding="async" width="120" height="53" data-file-width="300" data-file-height="133" /></a></td><td>300 × 133 <span style="white-space: nowrap;">(15 KB)</span></td><td><a href="/wiki/User:Tomchen1989" class="mw-userlink" title="User:Tomchen1989"><bdi>Tomchen1989</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Tomchen1989" class="mw-usertoollinks-talk" title="User talk:Tomchen1989">talk</a> | <a href="/wiki/Special:Contributions/Tomchen1989" class="mw-usertoollinks-contribs" title="Special:Contributions/Tomchen1989">contribs</a>)</span></span></td><td dir="ltr"></td></tr>
+</table>
+
+</div>
+<div class="mw-imagepage-upload-links"><p id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</p></div><h2 id="filelinks">File usage on Commons</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>The following 4 pages use this file:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/The_Simpsons_Movie" title="The Simpsons Movie">The Simpsons Movie</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Magog_the_Ogre/PD_ineligible/2015_October_16-19" title="User:Magog the Ogre/PD ineligible/2015 October 16-19">User:Magog the Ogre/PD ineligible/2015 October 16-19</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Magog_the_Ogre/PD_ineligible/2017_July_24-27" title="User:Magog the Ogre/PD ineligible/2017 July 24-27">User:Magog the Ogre/PD ineligible/2017 July 24-27</a></li>
+<li class="mw-imagepage-linkstoimage-ns14"><a href="/wiki/Category:The_Simpsons_Movie" title="Category:The Simpsons Movie">Category:The Simpsons Movie</a></li>
+</ul>
+</div>
+<h2 id="globalusage">File usage on other wikis</h2>
+<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
+</p><ul>
+<li class='mw-gu-onwiki-am_wikipedia_org'>Usage on am.wikipedia.org
+<ul>	<li><a class="external" href="https://am.wikipedia.org/wiki/%E1%8B%98_%E1%88%B2%E1%88%9D%E1%8D%95%E1%88%B6%E1%8A%95%E1%88%B5">ዘ ሲምፕሶንስ</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ar_wikipedia_org'>Usage on ar.wikipedia.org
+<ul>	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84_%D8%B3%D9%8A%D9%85%D8%A8%D8%B3%D9%88%D9%86_(%D9%81%D9%8A%D9%84%D9%85)">أل سيمبسون (فيلم)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-bh_wikipedia_org'>Usage on bh.wikipedia.org
+<ul>	<li><a class="external" href="https://bh.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%B8%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%B8">द सिम्पसन्स</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-br_wikipedia_org'>Usage on br.wikipedia.org
+<ul>	<li><a class="external" href="https://br.wikipedia.org/wiki/The_Simpsons:_Tapped_Out">The Simpsons: Tapped Out</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ca_wikipedia_org'>Usage on ca.wikipedia.org
+<ul>	<li><a class="external" href="https://ca.wikipedia.org/wiki/Llista_d%27episodis_d%27Els_Simpson">Llista d'episodis d'Els Simpson</a></li>
+	<li><a class="external" href="https://ca.wikipedia.org/wiki/The_Simpsons_Movie">The Simpsons Movie</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-cs_wikipedia_org'>Usage on cs.wikipedia.org
+<ul>	<li><a class="external" href="https://cs.wikipedia.org/wiki/Port%C3%A1l:Film">Portál:Film</a></li>
+	<li><a class="external" href="https://cs.wikipedia.org/wiki/Port%C3%A1l:Film/P%C5%99%C3%ADbuzn%C3%A9_port%C3%A1ly">Portál:Film/Příbuzné portály</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-da_wikipedia_org'>Usage on da.wikipedia.org
+<ul>	<li><a class="external" href="https://da.wikipedia.org/wiki/The_Simpsons">The Simpsons</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-eml_wikipedia_org'>Usage on eml.wikipedia.org
+<ul>	<li><a class="external" href="https://eml.wikipedia.org/wiki/The_Simpsons">The Simpsons</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-en_wikipedia_org'>Usage on en.wikipedia.org
+<ul>	<li><a class="external" href="https://en.wikipedia.org/wiki/List_of_The_Simpsons_home_video_releases">List of The Simpsons home video releases</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Portal:Comedy/Selected_article">Portal:Comedy/Selected article</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/October_2015">Wikipedia:Today's featured article/October 2015</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/October_15,_2015">Wikipedia:Today's featured article/October 15, 2015</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Wikipedia:Main_Page_history/2015_October_15">Wikipedia:Main Page history/2015 October 15</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Portal:Comedy/Selected_article/38">Portal:Comedy/Selected article/38</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/User:Tom_Colo/sandbox">User:Tom Colo/sandbox</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-es_wikipedia_org'>Usage on es.wikipedia.org
+<ul>	<li><a class="external" href="https://es.wikipedia.org/wiki/Los_Simpson_(franquicia)">Los Simpson (franquicia)</a></li>
+	<li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Bradford/Taller/Anexo:Episodios_de_Los_Simpson_(temporadas_1%E2%80%9320)">Usuario:Bradford/Taller/Anexo:Episodios de Los Simpson (temporadas 1–20)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-eu_wikipedia_org'>Usage on eu.wikipedia.org
+<ul>	<li><a class="external" href="https://eu.wikipedia.org/wiki/Simpsondarren_Filma">Simpsondarren Filma</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fi_wikipedia_org'>Usage on fi.wikipedia.org
+<ul>	<li><a class="external" href="https://fi.wikipedia.org/wiki/Simpsonit">Simpsonit</a></li>
+	<li><a class="external" href="https://fi.wikipedia.org/wiki/Luettelo_televisiosarjan_Simpsonit_jaksoista">Luettelo televisiosarjan Simpsonit jaksoista</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fr_wikipedia_org'>Usage on fr.wikipedia.org
+<ul>	<li><a class="external" href="https://fr.wikipedia.org/wiki/Utilisateur:Malak.Bouziane/Brouillon">Utilisateur:Malak.Bouziane/Brouillon</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ga_wikipedia_org'>Usage on ga.wikipedia.org
+<ul>	<li><a class="external" href="https://ga.wikipedia.org/wiki/Liosta_eipeas%C3%B3id%C3%AD_The_Simpsons">Liosta eipeasóidí The Simpsons</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-he_wikipedia_org'>Usage on he.wikipedia.org
+<ul>	<li><a class="external" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA_%D7%A1%D7%99%D7%9E%D7%A4%D7%A1%D7%95%D7%9F">משפחת סימפסון</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-hu_wikipedia_org'>Usage on hu.wikipedia.org
+<ul>	<li><a class="external" href="https://hu.wikipedia.org/wiki/A_Simpson_csal%C3%A1d_%E2%80%93_A_film">A Simpson család – A film</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-id_wikipedia_org'>Usage on id.wikipedia.org
+<ul>	<li><a class="external" href="https://id.wikipedia.org/wiki/Daftar_episode_The_Simpsons">Daftar episode The Simpsons</a></li>
+	<li><a class="external" href="https://id.wikipedia.org/wiki/Daftar_episode_The_Simpsons_(musim_1%E2%80%9320)">Daftar episode The Simpsons (musim 1–20)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-it_wikipedia_org'>Usage on it.wikipedia.org
+<ul>	<li><a class="external" href="https://it.wikipedia.org/wiki/I_Simpson_-_Il_film">I Simpson - Il film</a></li>
+	<li><a class="external" href="https://it.wikipedia.org/wiki/Utente:AleSeves">Utente:AleSeves</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-iu_wikipedia_org'>Usage on iu.wikipedia.org
+<ul>	<li><a class="external" href="https://iu.wikipedia.org/wiki/%E1%90%8A%E1%93%AF%E1%92%AA%E1%90%B2%E1%93%B2%E1%93%83%E1%91%A6">ᐊᓯᒪᐲᓲᓃᑦ</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ka_wikipedia_org'>Usage on ka.wikipedia.org
+<ul>	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%9B%E1%83%A4%E1%83%A1%E1%83%9D%E1%83%9C%E1%83%94%E1%83%91%E1%83%98">სიმფსონები</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%9B%E1%83%A4%E1%83%A1%E1%83%9D%E1%83%9C%E1%83%94%E1%83%91%E1%83%98_(%E1%83%94%E1%83%9E%E1%83%98%E1%83%96%E1%83%9D%E1%83%93%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%98%E1%83%90)">სიმფსონები (ეპიზოდების სია)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-kk_wikipedia_org'>Usage on kk.wikipedia.org
+<ul>	<li><a class="external" href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D0%B4%D0%B0%D1%80">Симпсондар</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ko_wikipedia_org'>Usage on ko.wikipedia.org
+<ul>	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EB%B0%94%ED%8A%B8_%EC%8B%AC%EC%8A%A8">바트 심슨</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%8A%A8_%EA%B0%80%EC%A1%B1">심슨 가족</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%ED%98%B8%EB%A8%B8_%EC%8B%AC%EC%8A%A8">호머 심슨</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%8A%A8_%EA%B0%80%EC%A1%B1:_%EB%8D%94_%EB%AC%B4%EB%B9%84">심슨 가족: 더 무비</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EB%A7%88%EC%A7%80_%EC%8B%AC%EC%8A%A8">마지 심슨</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%8A%A8_%EA%B0%80%EC%A1%B1%EC%9D%98_%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C_%EB%AA%A9%EB%A1%9D">심슨 가족의 에피소드 목록</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%82%AC_%EC%8B%AC%EC%8A%A8">리사 심슨</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%8A%A8_%EA%B0%80%EC%A1%B1%EC%9D%98_%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC_%EB%AA%A9%EB%A1%9D">심슨 가족의 등장인물 목록</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EB%A7%A4%EA%B8%B0_%EC%8B%AC%EC%8A%A8">매기 심슨</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%ED%8B%80:%EC%8B%AC%EC%8A%A8_%EA%B0%80%EC%A1%B1">틀:심슨 가족</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%C2%A1Ay,_caramba!">¡Ay, caramba!</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ksh_wikipedia_org'>Usage on ksh.wikipedia.org
+<ul>	<li><a class="external" href="https://ksh.wikipedia.org/wiki/D_Simpsons">D Simpsons</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-mwl_wikipedia_org'>Usage on mwl.wikipedia.org
+<ul>	<li><a class="external" href="https://mwl.wikipedia.org/wiki/The_Simpsons">The Simpsons</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-nds-nl_wikipedia_org'>Usage on nds-nl.wikipedia.org
+<ul>	<li><a class="external" href="https://nds-nl.wikipedia.org/wiki/The_Simpsons">The Simpsons</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ne_wikipedia_org'>Usage on ne.wikipedia.org
+<ul>	<li><a class="external" href="https://ne.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%B8%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%B8">द सिम्प्सन्स</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-nl_wikipedia_org'>Usage on nl.wikipedia.org
+<ul>	<li><a class="external" href="https://nl.wikipedia.org/wiki/The_Simpsons:_Bart_vs._the_Space_Mutants">The Simpsons: Bart vs. the Space Mutants</a></li>
+</ul></li>
+</ul>
+<p>View <a href="/wiki/Special:GlobalUsage/The_Simpsons_Logo.svg" title="Special:GlobalUsage/The Simpsons Logo.svg">more global usage</a> of this file.
+</p></div><h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata"><p>This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.</p><table id="mw_metadata" class="mw_metadata collapsed">
+<tbody><tr class="exif-imagewidth mw-metadata-collapsible"><th>Width</th><td>300</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>Height</th><td>133</td></tr></tbody></table>
+</div></div><div role='tabpanel' id='ooui-php-5' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"statements","label":"Structured data","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><h2 class="wbmi-structured-data-header">Structured data</h2><div id='P180' data-property='P180' data-statements='[]' data-formatvalue='[]' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h3 class='wbmi-statements-title'>In dieser Datei abgebildete Objekte</h3><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">depicts</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'></div></div></div><div id='P571' data-property='P571' data-statements='[{"mainsnak":{"snaktype":"value","property":"P571","hash":"e4a47d609be458e8f86b07b954122fec6052409c","datavalue":{"value":{"time":"+1989-12-17T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"M16568939$F2EE5A20-CEC6-47A0-9D4D-5D1FC8D1B01D","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":571,\"id\":\"P571\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P571\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P571\"&gt;inception&lt;\/a&gt;"}},"text\/plain":{"en":{"":"inception"}}},"{\"value\":{\"time\":\"+1989-12-17T00:00:00Z\",\"timezone\":0,\"before\":0,\"after\":0,\"precision\":11,\"calendarmodel\":\"http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q1985727\"},\"type\":\"time\"}":{"text\/html":{"en":{"P571":"17 December 1989"}},"text\/plain":{"en":{"P571":"17 December 1989"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P571 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P571" href="https://www.wikidata.org/wiki/Special:EntityPage/P571">inception</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M16568939$F2EE5A20-CEC6-47A0-9D4D-5D1FC8D1B01D' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi>17 December 1989</bdi></h4></div></div></div></div></div></div></div></div><div id='P1163' data-property='P1163' data-statements='[{"mainsnak":{"snaktype":"value","property":"P1163","hash":"636199d1806c7cdbae57b4d4298f38fade12d052","datavalue":{"value":"image\/svg+xml","type":"string"}},"type":"statement","id":"M16568939$9C579552-F036-43AE-AC25-1AF4F7162D60","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":1163,\"id\":\"P1163\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P1163\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P1163\"&gt;media type&lt;\/a&gt;"}},"text\/plain":{"en":{"":"media type"}}},"{\"value\":\"image\\\/svg+xml\",\"type\":\"string\"}":{"text\/html":{"en":{"P1163":"image\/svg+xml"}},"text\/plain":{"en":{"P1163":"image\/svg+xml"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P1163 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P1163" href="https://www.wikidata.org/wiki/Special:EntityPage/P1163">media type</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M16568939$9C579552-F036-43AE-AC25-1AF4F7162D60' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi>image/svg+xml</bdi></h4></div></div></div></div></div></div></div></div></div></div></div></div></div><noscript><img src="//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://commons.wikimedia.org/w/index.php?title=File:The_Simpsons_Logo.svg&amp;oldid=660518648">https://commons.wikimedia.org/w/index.php?title=File:The_Simpsons_Logo.svg&amp;oldid=660518648</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:SVG_logos_of_television_programs_of_the_United_States" title="Category:SVG logos of television programs of the United States">SVG logos of television programs of the United States</a></li><li><a href="/wiki/Category:The_Simpsons_logos" title="Category:The Simpsons logos">The Simpsons logos</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-user-shown">Hidden categories: <ul><li><a href="/wiki/Category:PD_textlogo" title="Category:PD textlogo">PD textlogo</a></li><li><a href="/wiki/Category:SVG_text_logos" title="Category:SVG text logos">SVG text logos</a></li><li><a href="/wiki/Category:With_trademark" title="Category:With trademark">With trademark</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-uls" class="mw-list-item active"><a class="uls-trigger" href="#"><span>English</span></a></li><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3AThe+Simpsons+Logo.svg" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3AThe+Simpsons+Logo.svg" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/File:The_Simpsons_Logo.svg" title="View the file page [c]" accesskey="c"><span>File</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=File_talk:The_Simpsons_Logo.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Discussion</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/File:The_Simpsons_Logo.svg"><span>View</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=File:The_Simpsons_Logo.svg&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=File:The_Simpsons_Logo.svg&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>History</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikimedia Commons" aria-label="Search Wikimedia Commons" autocapitalize="sentences" title="Search Wikimedia Commons [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:MediaSearch">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search the pages for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigate</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" icon="home" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-welcome" class="mw-list-item"><a href="/wiki/Commons:Welcome"><span>Welcome</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Commons:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-village-pump" class="mw-list-item"><a href="/wiki/Commons:Village_pump"><span>Village pump</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Special:MyLanguage/Help:Contents" icon="help" title="The place to find out"><span>Help center</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-participate" class="mw-portlet mw-portlet-participate vector-menu vector-menu-portal portal" aria-labelledby="p-participate-label" role="navigation"  >
+	<h3
+		id="p-participate-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Participate</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-uploadbtn" class="mw-list-item"><a href="/wiki/Special:UploadWizard"><span>Upload file</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" icon="recentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-latestfiles" class="mw-list-item"><a href="/wiki/Special:NewFiles"><span>Latest files</span></a></li><li id="n-randomimage" class="mw-list-item"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x"><span>Random file</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Commons:Contact_us"><span>Contact us</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/File:The_Simpsons_Logo.svg" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/File:The_Simpsons_Logo.svg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=File:The_Simpsons_Logo.svg&amp;oldid=660518648" title="Permanent link to this revision of the page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=File:The_Simpsons_Logo.svg&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-wb-concept-uri" class="mw-list-item"><a href="https://commons.wikimedia.org/entity/M16568939" title="URI that identifies the concept described by this Item"><span>Concept URI</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File%3AThe_Simpsons_Logo.svg&amp;id=660518648&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-electronpdfservice-sidebar-portlet-heading" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu vector-menu-portal portal" aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" role="navigation"  >
+	<h3
+		id="p-electronpdfservice-sidebar-portlet-heading-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=File%3AThe_Simpsons_Logo.svg&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 1 June 2022, at 08:35.</li>
+	<li id="footer-info-copyright">Files are available under licenses specified on their description page. All structured data from the file namespace is available under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; all unstructured text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>;
+additional terms may apply.
+By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> and the <a href="//foundation.wikimedia.org/wiki/Privacy_policy" title="Wikimedia Foundation Privacy Policy">Privacy Policy</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Commons:Welcome" title="Commons:Welcome">About Wikimedia Commons</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-mobileview"><a href="//commons.m.wikimedia.org/w/index.php?title=File:The_Simpsons_Logo.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/commons.wikimedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.001","ppvisitednodes":{"value":2,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1327","timestamp":"20220620081214","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/The_Simpsons_Logo.svg","license":"https:\/\/commons.wikimedia.org\/wiki\/Help:Public_domain","acquireLicensePage":"\/\/commons.wikimedia.org\/wiki\/File:The_Simpsons_Logo.svg","uploadDate":"2017-07-27 13:40:57"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/The_Simpsons_Logo.svg","license":"https:\/\/commons.wikimedia.org\/wiki\/Help:Public_domain","acquireLicensePage":"\/\/commons.wikimedia.org\/wiki\/File:The_Simpsons_Logo.svg","uploadDate":"2017-07-27 13:40:57"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":246,"wgHostname":"mw1327"});});</script>
+</body>
+</html>
