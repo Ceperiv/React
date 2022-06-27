@@ -2,8 +2,8 @@ import React from 'react';
 
 function User({item, userButton}) {
     return (
-        <ol>
-            <li className={'li-el'}>{item.id}</li>
+        <ol className={'userOl'}>
+            <li>{item.id}</li>
 
             <li>{item.name}</li>
             <button onClick={() => {

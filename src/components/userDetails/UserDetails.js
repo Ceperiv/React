@@ -7,6 +7,7 @@ function UserDetails({user}) {
 
     return (
         <div className={'user_details'}>
+            <p><i>info:</i></p>
             <h4>{user.id}</h4>
             <h4>{user.name}</h4>
             <h4>{user.address.city}</h4>
