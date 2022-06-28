@@ -1,0 +1,43 @@
+.user-box{
+    width: 19%;
+    padding: 3px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.user-button{
+    width: 50%;
+    height: 30px;
+    border: silver 1px solid;
+    border-bottom-right-radius: 10px;
+    transition: .5s;
+}
+.user-button:hover{
+    transition: .5s;
+    background: silver;
+    cursor: pointer;
+    color: brown;
+}
+
+@media (max-width: 1024px) {
+.user-box{
+    width: 49%;
+}
+    .user-button{
+        width: 30%;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .user-box{
+        width: 99%;
+    }
+    .user-button{
+        width: 25%;
+    }
+
+}
+
