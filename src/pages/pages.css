@@ -1,0 +1,61 @@
+.main-h2{
+    margin: 10px 0;
+}
+
+.user-info{
+    width: 100%;
+    min-height: 50px;
+    margin: 10px;
+}
+
+.user-info ul{
+    margin: 10px 0;
+}
+
+.user-info ul li{
+    color: green;
+}
+.user-info > h2{
+    margin: 10px;
+}
+.user-info a{
+    text-decoration: none;
+    color: olive;
+    transition: .5s;
+}
+
+.user-info a:hover{
+    color: brown;
+    transition: .5s;
+}
+
+.user-info .active{
+    color: #545401;
+    font-size: large;
+}
+
+ol{
+    color: brown;
+}
+
+.user-togos{
+    color: grey;
+    margin: 10px 0;
+}
+
+.all-rights{
+    margin: 10px 0;
+}
+
+.all-rights > a{
+    text-decoration: none;
+    color: olive;
+    transition: .5s;
+}
+
+.all-rights > a:hover{
+    color: #545401;
+    font-size: large;
+}
+
+
