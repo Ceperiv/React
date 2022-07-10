@@ -1,7 +1,7 @@
 import React from 'react';
+import {NavLink} from "react-router-dom";
 
 import './Components.css';
-import {NavLink} from "react-router-dom";
 
 function AlbumsComponents({albums}) {
     let {id, title} = albums

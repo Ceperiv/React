@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
+import {useLocation, useNavigate} from "react-router-dom";
 
 import './pages.css';
-import {useLocation, useNavigate} from "react-router-dom";
 import {getCommentsInfo} from "../services/api.services";
 import {CommentsComponents} from "../components";
 

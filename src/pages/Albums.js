@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from 'react';
+import {Outlet} from "react-router-dom";
 
 import './pages.css';
 import {getAlbumsInfo} from "../services/api.services";
 import {AlbumsComponents} from "../components";
-import {Outlet} from "react-router-dom";
 
 function Albums(props) {
     let [albums, setAlbums] = useState([])
