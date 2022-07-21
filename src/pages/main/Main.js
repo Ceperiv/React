@@ -9,8 +9,8 @@ function Main(props) {
         <div>
             <hr/>
 
-            <button><Link to={'main/posts'}>Posts</Link></button>
-            <button><Link to={'main/comments'}>Comments</Link></button>
+            <button><Link to={'posts'}>Posts</Link></button>
+            <button><Link to={'comments'}>Comments</Link></button>
 
             <Outlet/>
         </div>

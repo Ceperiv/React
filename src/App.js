@@ -13,8 +13,8 @@ function App() {
 
                 <Route path={'/main'} element={<Main/>}>
 
-                    <Route path={'main/posts'} element={<Posts/>}/>
-                    <Route path={'main/comments'} element={<Comments/>}/>
+                    <Route path={'posts'} element={<Posts/>}/>
+                    <Route path={'comments'} element={<Comments/>}/>
 
                 </Route>
             </Routes>
