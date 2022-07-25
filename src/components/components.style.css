@@ -46,7 +46,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-top: orange 1px solid;
+    border-top: #cb8409 1px solid;
     padding: 5px;
 
 

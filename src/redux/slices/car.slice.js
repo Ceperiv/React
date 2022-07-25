@@ -1,4 +1,4 @@
-import {createAsyncThunk, createSlice} from "@reduxjs/toolkit";
+import {createAsyncThunk, createSlice, current} from "@reduxjs/toolkit";
 
 import {carsService} from "../../services/car.service";
 
@@ -9,7 +9,7 @@ const initialState = {
     deleteCar: null,
     visibility: null,
     errors: null,
-    isLoading:false
+    isLoading: false
 
 };
 // console.log(current(initialState.carForUpdate))
@@ -87,27 +87,27 @@ const carSlice = createSlice({
                 state.cars = action.payload
                 state.isLoading = false
             })
-            .addCase(getAll.rejected, ((state, action) => {
+            .addCase(getAll.rejected, (state, action) => {
                 state.errors = action.payload
-            }))
+            })
             .addCase(updateById.fulfilled, (state, action) => {
                 const currentCar = state.cars.find(value => value.id === action.payload.id);
                 Object.assign(currentCar, action.payload)
                 state.carForUpdate = null
             })
             .addCase(deleteById.fulfilled, (state, action) => {
-                const index = state.cars.find(value => value.id === action.payload.id);
+                const index = state.cars.findIndex(value => value.id === action.payload);
                 state.cars.splice(index, 1)
             })
-            .addCase(createNewCar.fulfilled, ((state, action) => {
+            .addCase(createNewCar.fulfilled, (state, action) => {
                 state.cars.push(action.payload)
-            }))
+            })
             .addDefaultCase((state, action) => {
                 const [type] = action.type.split('/').splice(-1)
                 // console.log(type)
-                if(type === 'rejected'){
+                if (type === 'rejected') {
                     state.errors = action.payload
-                }else {
+                } else {
                     state.errors = null
                 }
             })

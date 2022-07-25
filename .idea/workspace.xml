@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea2d9dd4-d009-4f37-86ac-ad1c28bb98f8" name="Changes" comment="input errors style" />
+    <list default="true" id="ea2d9dd4-d009-4f37-86ac-ad1c28bb98f8" name="Changes" comment="body shadow">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/slices/car.slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/slices/car.slice.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658767673627</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="footer style">
+      <created>1658767740564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658767740564</updated>
+    </task>
+    <task id="LOCAL-00004" summary="footer s t y l e">
+      <created>1658767809962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658767809962</updated>
+    </task>
+    <task id="LOCAL-00005" summary="body shadow">
+      <created>1658767938831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658767938831</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +134,10 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="toolkit" />
     <MESSAGE value="input errors style" />
-    <option name="LAST_COMMIT_MESSAGE" value="input errors style" />
+    <MESSAGE value="footer style" />
+    <MESSAGE value="footer s t y l e" />
+    <MESSAGE value="body shadow" />
+    <option name="LAST_COMMIT_MESSAGE" value="body shadow" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
