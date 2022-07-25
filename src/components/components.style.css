@@ -63,6 +63,12 @@ header{
     margin: 5px;
     border-radius: 5px;
 }
+.errors{
+    color: brown;
+    font-size: x-small;
+    align-items: center;
+    justify-content: center;
+}
 
 footer{
     display: flex;
@@ -72,4 +78,8 @@ footer{
     height: 40px;
     background: olive;
     letter-spacing: .2em;
+}
+
+h2{
+    color: olive;
 }
