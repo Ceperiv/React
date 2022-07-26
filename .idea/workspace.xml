@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea2d9dd4-d009-4f37-86ac-ad1c28bb98f8" name="Changes" comment="body shadow">
+    <list default="true" id="ea2d9dd4-d009-4f37-86ac-ad1c28bb98f8" name="Changes" comment="findIndex">
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/slices/car.slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/slices/car.slice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/components.style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/components.style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658767938831</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="findIndex">
+      <created>1658782742585</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658782742585</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +147,8 @@
     <MESSAGE value="footer style" />
     <MESSAGE value="footer s t y l e" />
     <MESSAGE value="body shadow" />
-    <option name="LAST_COMMIT_MESSAGE" value="body shadow" />
+    <MESSAGE value="findIndex" />
+    <option name="LAST_COMMIT_MESSAGE" value="findIndex" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

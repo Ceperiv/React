@@ -1,5 +1,5 @@
 import './App.css';
-import {Button, Cars} from "./components";
+import {Button, Cars, Footer} from "./components";
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
             <Button/>
             <hr/>
             <Cars/>
-            <footer>all rights reserved</footer>
+            <Footer/>
         </div>
     );
 }
