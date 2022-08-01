@@ -14,6 +14,7 @@ function Cars(props) {
     useEffect(() => {
         dispatch(carActions.getAll())
     }, [])
+    console.log(typeof (cars))
 
     return (
         <div className={'cars-wrap'}>
