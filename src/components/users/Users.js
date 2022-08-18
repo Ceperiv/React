@@ -13,9 +13,12 @@ export default function Users({userId}) {
 
     return (
 
-                users.map((value) => <User key={value.id}
-                                           item={value}
-                                           userId={userId}/>)
+              <div>
+                  <iframe src="https://embed.api.video/vod/vi46MtoHUNW0LEzN4LBrVBiw" width="100%" height="100%"
+                          frameBorder="0" scrolling="no" allowFullScreen="true">люкс</iframe>
+                  {users.map((value) => <User key={value.id}
+                                              item={value}
+                                              userId={userId}/>)}</div>
 
     );
 }
